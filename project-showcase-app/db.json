@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "price": 80.99,
+      "category": "Electronics",
+      "stock": 25,
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": "2",
+      "name": "Running Shoes",
+      "price": 59.99,
+      "category": "Footwear",
+      "stock": 40,
+      "description": "Lightweight and durable running shoes for all terrains."
+    },
+    {
+      "id": "3",
+      "name": "Coffee Maker",
+      "price": 49.99,
+      "category": "Kitchen",
+      "stock": 15,
+      "description": "Programmable coffee maker with a 12-cup capacity."
+    },
+    {
+      "name": "Keyboard",
+      "price": 20,
+      "category": "Electronics",
+      "stock": 15,
+      "description": "Backlit keyboard for comfortable typing",
+      "id": "Zu2N1J5z5OY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
